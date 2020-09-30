@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\BP-2\bin\Debug\netcoreapp3.0\BP-2.exe
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\BP-2\bin\Debug\netcoreapp3.0\BP-2.deps.json
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\BP-2\bin\Debug\netcoreapp3.0\BP-2.runtimeconfig.json
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\BP-2\bin\Debug\netcoreapp3.0\BP-2.runtimeconfig.dev.json
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\BP-2\bin\Debug\netcoreapp3.0\BP-2.dll
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\BP-2\bin\Debug\netcoreapp3.0\BP-2.pdb
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\BP-2\obj\Debug\netcoreapp3.0\BP-2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\BP-2\obj\Debug\netcoreapp3.0\BP-2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\BP-2\obj\Debug\netcoreapp3.0\BP-2.AssemblyInfo.cs
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\BP-2\obj\Debug\netcoreapp3.0\BP-2.dll
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\BP-2\obj\Debug\netcoreapp3.0\BP-2.pdb

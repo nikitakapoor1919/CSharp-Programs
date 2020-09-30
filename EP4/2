@@ -1,0 +1,125 @@
+using System;
+using System.IO;
+
+namespace EP4
+{
+    class Program
+    {
+        static bool FileEquals(string path1, string path2)
+        {
+             try 
+            {
+                byte[] file1 = File.ReadAllBytes(path1);
+                byte[] file2 = File.ReadAllBytes(path2);
+                if (file1.Length == file2.Length)
+                {
+                    for (int i = 0; i < file1.Length; i++)
+                    {
+                        if (file1[i] != file2[i])
+                        {
+                            return false;
+                        }
+                    }
+                    return true;
+                }
+            }catch (FileNotFoundException e) {
+                Console.WriteLine("The file could not be read:");
+                Console.WriteLine("File Not Found Exception: "+e.Message);
+            }
+            catch (IOException e){
+                Console.WriteLine("IO Exception: "+e.Message);
+            }
+            catch (Exception e) {
+                Console.WriteLine("Exception: "+e.Message);
+            }
+            return false;
+        }
+
+        static void Main(string[] args)
+        {
+            string data;
+            BinaryWriter bw;
+            var sourcePath = "source.txt";
+            var destPath = "destination.txt";
+
+            try {
+                if (!File.Exists(sourcePath)){
+                    // bw = new BinaryWriter(new FileStream(sourcePath, FileMode.Create));
+                    // bw.Write("Hi!! This is EP4 of C# Assignment.\nThis is my content.");
+                    using (StreamWriter writer = new StreamWriter(sourcePath))
+                    {
+                        writer.Write("Hi!! This is EP4 of C# Assignment.\nThis is my content.");
+                    }
+                }
+            } catch (IOException e){
+                Console.WriteLine("IO Exception: "+e.Message);
+            }
+            // br = new BinaryReader(new FileStream(sourcePath, FileMode.Open));
+            // data = br.ReadString();
+            // using (br= new BinaryReader(File.Open(destPath, FileMode.Open)))
+            // {
+            //     Console.WriteLine((int)br.BaseStream.Length);
+            //     int pos = 0;
+            //     int length = (int)br.BaseStream.Length;
+            //     while (pos < length)
+            //     {
+            //         data = br.ReadString();
+            //         Console.WriteLine(data);
+            //     }
+            // }
+            try
+            {
+                using (FileStream fsSource = new FileStream(sourcePath,FileMode.Open, FileAccess.Read))
+                {
+                    byte[] bytes = new byte[fsSource.Length];
+                    int numBytesToRead = (int)fsSource.Length;
+                    int numBytesRead = 0;
+                    while (numBytesToRead > 0)
+                    {
+                        int n = fsSource.Read(bytes, numBytesRead, numBytesToRead);
+                        if (n == 0)
+                            break;
+                        numBytesRead += n;
+                        numBytesToRead -= n;
+                    }
+                    numBytesToRead = bytes.Length;
+                    // Write the byte array to the other FileStream.
+                    using (FileStream fsNew = new FileStream(destPath,FileMode.Create, FileAccess.Write))
+                    {
+                        fsNew.Write(bytes, 0, numBytesToRead);
+                    }
+                }
+            }
+            catch (IOException e){
+                Console.WriteLine("IO Exception: "+e.Message);
+            }
+            catch (Exception e) {
+                Console.WriteLine("Exception: "+e.Message);
+            }
+            data = File.ReadAllText(destPath);
+            Console.WriteLine("Content of Destination.txt :\n"+data);
+            try 
+            {
+                if (File.Exists(destPath))
+                     File.Delete(destPath);
+                File.Copy(sourcePath, destPath);
+                Console.WriteLine("File Copied!!!\n");
+                data = File.ReadAllText(destPath);
+                Console.WriteLine("Content of destination.txt :\n" + data);
+
+            }catch (FileNotFoundException e) {
+                Console.WriteLine("The file could not be read:");
+                Console.WriteLine("File Not Found Exception: "+e.Message);
+            }
+            catch (IOException e){
+                Console.WriteLine("IO Exception: "+e.Message);
+            }
+            catch (Exception e) {
+                Console.WriteLine("Exception: "+e.Message);
+            }
+            bool a = FileEquals(sourcePath, destPath);
+            Console.WriteLine("Both Files Equal: "+a);
+           
+        }
+    }
+}

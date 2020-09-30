@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\HP2\obj\Debug\netcoreapp3.1\HP2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\HP2\obj\Debug\netcoreapp3.1\HP2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\HP2\obj\Debug\netcoreapp3.1\HP2.AssemblyInfo.cs
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\HP2\obj\Debug\netcoreapp3.1\HP2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\HP2\bin\Debug\netcoreapp3.1\HP2.exe
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\HP2\bin\Debug\netcoreapp3.1\HP2.deps.json
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\HP2\bin\Debug\netcoreapp3.1\HP2.runtimeconfig.json
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\HP2\bin\Debug\netcoreapp3.1\HP2.runtimeconfig.dev.json
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\HP2\bin\Debug\netcoreapp3.1\HP2.dll
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\HP2\bin\Debug\netcoreapp3.1\HP2.pdb
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\HP2\obj\Debug\netcoreapp3.1\HP2.dll
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\HP2\obj\Debug\netcoreapp3.1\HP2.pdb
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\HP2\obj\Debug\netcoreapp3.1\HP2.genruntimeconfig.cache

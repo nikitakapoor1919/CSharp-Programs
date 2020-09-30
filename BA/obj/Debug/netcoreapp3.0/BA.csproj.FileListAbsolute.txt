@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\BA\bin\Debug\netcoreapp3.0\BA.exe
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\BA\bin\Debug\netcoreapp3.0\BA.deps.json
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\BA\bin\Debug\netcoreapp3.0\BA.runtimeconfig.json
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\BA\bin\Debug\netcoreapp3.0\BA.runtimeconfig.dev.json
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\BA\bin\Debug\netcoreapp3.0\BA.dll
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\BA\bin\Debug\netcoreapp3.0\BA.pdb
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\BA\obj\Debug\netcoreapp3.0\BA.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\BA\obj\Debug\netcoreapp3.0\BA.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\BA\obj\Debug\netcoreapp3.0\BA.AssemblyInfo.cs
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\BA\obj\Debug\netcoreapp3.0\BA.dll
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\BA\obj\Debug\netcoreapp3.0\BA.pdb

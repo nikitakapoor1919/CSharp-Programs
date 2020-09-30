@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\E\bin\Debug\netcoreapp3.1\E.exe
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\E\bin\Debug\netcoreapp3.1\E.deps.json
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\E\bin\Debug\netcoreapp3.1\E.runtimeconfig.json
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\E\bin\Debug\netcoreapp3.1\E.runtimeconfig.dev.json
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\E\bin\Debug\netcoreapp3.1\E.dll
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\E\bin\Debug\netcoreapp3.1\E.pdb
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\E\obj\Debug\netcoreapp3.1\E.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\E\obj\Debug\netcoreapp3.1\E.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\E\obj\Debug\netcoreapp3.1\E.AssemblyInfo.cs
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\E\obj\Debug\netcoreapp3.1\E.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\E\obj\Debug\netcoreapp3.1\E.dll
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\E\obj\Debug\netcoreapp3.1\E.pdb
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\E\obj\Debug\netcoreapp3.1\E.genruntimeconfig.cache

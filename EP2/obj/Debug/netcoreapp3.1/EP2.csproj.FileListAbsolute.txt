@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\EP2\bin\Debug\netcoreapp3.1\EP2.exe
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\EP2\bin\Debug\netcoreapp3.1\EP2.deps.json
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\EP2\bin\Debug\netcoreapp3.1\EP2.runtimeconfig.json
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\EP2\bin\Debug\netcoreapp3.1\EP2.runtimeconfig.dev.json
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\EP2\bin\Debug\netcoreapp3.1\EP2.dll
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\EP2\bin\Debug\netcoreapp3.1\EP2.pdb
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\EP2\obj\Debug\netcoreapp3.1\EP2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\EP2\obj\Debug\netcoreapp3.1\EP2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\EP2\obj\Debug\netcoreapp3.1\EP2.AssemblyInfo.cs
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\EP2\obj\Debug\netcoreapp3.1\EP2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\EP2\obj\Debug\netcoreapp3.1\EP2.dll
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\EP2\obj\Debug\netcoreapp3.1\EP2.pdb
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\EP2\obj\Debug\netcoreapp3.1\EP2.genruntimeconfig.cache
