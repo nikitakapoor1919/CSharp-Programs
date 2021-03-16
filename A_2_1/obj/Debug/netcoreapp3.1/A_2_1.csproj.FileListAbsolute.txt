@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\Assignments\A_2_1\bin\Debug\netcoreapp3.1\A_2_1.exe
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\Assignments\A_2_1\bin\Debug\netcoreapp3.1\A_2_1.deps.json
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\Assignments\A_2_1\bin\Debug\netcoreapp3.1\A_2_1.runtimeconfig.json
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\Assignments\A_2_1\bin\Debug\netcoreapp3.1\A_2_1.runtimeconfig.dev.json
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\Assignments\A_2_1\bin\Debug\netcoreapp3.1\A_2_1.dll
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\Assignments\A_2_1\bin\Debug\netcoreapp3.1\A_2_1.pdb
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\Assignments\A_2_1\obj\Debug\netcoreapp3.1\A_2_1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\Assignments\A_2_1\obj\Debug\netcoreapp3.1\A_2_1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\Assignments\A_2_1\obj\Debug\netcoreapp3.1\A_2_1.AssemblyInfo.cs
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\Assignments\A_2_1\obj\Debug\netcoreapp3.1\A_2_1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\Assignments\A_2_1\obj\Debug\netcoreapp3.1\A_2_1.dll
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\Assignments\A_2_1\obj\Debug\netcoreapp3.1\A_2_1.pdb
+C:\Users\user\Desktop\SEM-3\C#\C-sharp programs\Assignments\A_2_1\obj\Debug\netcoreapp3.1\A_2_1.genruntimeconfig.cache
